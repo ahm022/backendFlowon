@@ -1,0 +1,1 @@
+{"namedObjects":{},"entityTypes":{"firstentity":{}},"entityTypesAspects":{"test1#firstentity":{"security":{"aces":[{"principal":"System#G-ANONYMOUS","roles":[]},{"principal":"System#G-EVERYONE","roles":[]},{"principal":"System#G-AUTHENTICATED_USERS","roles":[]}]}}}}
